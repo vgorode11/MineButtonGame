@@ -364,3 +364,5 @@ FodyWeavers.xsd
 /FormGame.cs
 /FormGame.Designer.cs
 /FormGame.resx
+.vs/
+

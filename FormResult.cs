@@ -34,9 +34,9 @@ namespace MineButtonGame
 
         private void btnToMenu_Click(object sender, EventArgs e)
         {
-            FormMenu menu = new FormMenu();
-            menu.Show();
-            this.Close();
+            FormMenu menuForm = new FormMenu();
+            menuForm.Show();
+            this.Hide();
         }
 
         private void lblMessage_Click(object sender, EventArgs e)
