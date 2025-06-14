@@ -361,8 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-/FormGame.cs
-/FormGame.Designer.cs
-/FormGame.resx
+#/FormGame.cs
+#/FormGame.Designer.cs
+#/FormGame.resx
 .vs/
 
